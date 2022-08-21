@@ -1,0 +1,15 @@
+C:\Users\5\OneDrive\GeekBrains\LessonC#\lesson\lesson14\bin\Debug\net6.0\lesson14.exe
+C:\Users\5\OneDrive\GeekBrains\LessonC#\lesson\lesson14\bin\Debug\net6.0\lesson14.deps.json
+C:\Users\5\OneDrive\GeekBrains\LessonC#\lesson\lesson14\bin\Debug\net6.0\lesson14.runtimeconfig.json
+C:\Users\5\OneDrive\GeekBrains\LessonC#\lesson\lesson14\bin\Debug\net6.0\lesson14.dll
+C:\Users\5\OneDrive\GeekBrains\LessonC#\lesson\lesson14\bin\Debug\net6.0\lesson14.pdb
+C:\Users\5\OneDrive\GeekBrains\LessonC#\lesson\lesson14\obj\Debug\net6.0\lesson14.csproj.AssemblyReference.cache
+C:\Users\5\OneDrive\GeekBrains\LessonC#\lesson\lesson14\obj\Debug\net6.0\lesson14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5\OneDrive\GeekBrains\LessonC#\lesson\lesson14\obj\Debug\net6.0\lesson14.AssemblyInfoInputs.cache
+C:\Users\5\OneDrive\GeekBrains\LessonC#\lesson\lesson14\obj\Debug\net6.0\lesson14.AssemblyInfo.cs
+C:\Users\5\OneDrive\GeekBrains\LessonC#\lesson\lesson14\obj\Debug\net6.0\lesson14.csproj.CoreCompileInputs.cache
+C:\Users\5\OneDrive\GeekBrains\LessonC#\lesson\lesson14\obj\Debug\net6.0\lesson14.dll
+C:\Users\5\OneDrive\GeekBrains\LessonC#\lesson\lesson14\obj\Debug\net6.0\refint\lesson14.dll
+C:\Users\5\OneDrive\GeekBrains\LessonC#\lesson\lesson14\obj\Debug\net6.0\lesson14.pdb
+C:\Users\5\OneDrive\GeekBrains\LessonC#\lesson\lesson14\obj\Debug\net6.0\lesson14.genruntimeconfig.cache
+C:\Users\5\OneDrive\GeekBrains\LessonC#\lesson\lesson14\obj\Debug\net6.0\ref\lesson14.dll
