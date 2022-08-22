@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\5\\OneDrive\\GeekBrains\\LessonC#\\lesson\\Lesson15\\Lesson15.csproj": {}
+    "C:\\Users\\5\\OneDrive\\GeekBrains\\LessonC#\\lesson\\lesson15\\Lesson15.csproj": {}
   },
   "projects": {
-    "C:\\Users\\5\\OneDrive\\GeekBrains\\LessonC#\\lesson\\Lesson15\\Lesson15.csproj": {
+    "C:\\Users\\5\\OneDrive\\GeekBrains\\LessonC#\\lesson\\lesson15\\Lesson15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\5\\OneDrive\\GeekBrains\\LessonC#\\lesson\\Lesson15\\Lesson15.csproj",
+        "projectUniqueName": "C:\\Users\\5\\OneDrive\\GeekBrains\\LessonC#\\lesson\\lesson15\\Lesson15.csproj",
         "projectName": "Lesson15",
-        "projectPath": "C:\\Users\\5\\OneDrive\\GeekBrains\\LessonC#\\lesson\\Lesson15\\Lesson15.csproj",
+        "projectPath": "C:\\Users\\5\\OneDrive\\GeekBrains\\LessonC#\\lesson\\lesson15\\Lesson15.csproj",
         "packagesPath": "C:\\Users\\5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\5\\OneDrive\\GeekBrains\\LessonC#\\lesson\\Lesson15\\obj\\",
+        "outputPath": "C:\\Users\\5\\OneDrive\\GeekBrains\\LessonC#\\lesson\\lesson15\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\5\\AppData\\Roaming\\NuGet\\NuGet.Config"
